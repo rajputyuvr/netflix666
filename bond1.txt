@@ -1,2 +1,4 @@
 indian army 
 indian air force
+indian navy
+indian terrotorial army:eq
